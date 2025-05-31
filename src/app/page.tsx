@@ -4,7 +4,7 @@ export default function Home() {
     <section className="mx-auto max-w-5xl py-24 text-center">
       <h1 className="text-5xl font-bold">مصانع</h1>
       <p className="mt-4 text-neutral-600">
-        Premium devices, planet-friendly materials.
+        صناعة سعودية، بأيدي سعودية، الى سكان السعودية!.
       </p>
     </section>
   );
