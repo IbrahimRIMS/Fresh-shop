@@ -15,7 +15,7 @@ export function Navbar() {
     <nav className="sticky top-0 z-20 bg-white/90 backdrop-blur shadow-sm">
       <div className="mx-auto max-w-6xl px-6 h-16 flex items-center gap-8">
         <Link href="/" className="font-bold text-xl tracking-tight">
-          Acme
+          Masanne
         </Link>
         <ul className="flex gap-6 ml-auto">
           {links.map(({ href, label }) => (
@@ -41,4 +41,3 @@ export function Navbar() {
     </nav>
   );
 }
-                                                                                
