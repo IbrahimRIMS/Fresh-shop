@@ -3,8 +3,8 @@ import { Navbar } from '@/components/Navbar';
 import { Footer } from '@/components/Footer';
 
 export const metadata = {
-  title: 'Acme Store',
-  description: 'Visionary gadgets for modern humans',
+  title: 'Masanne',
+  description: 'Your place to Saudi manufacturers',
 };
 
 export default function RootLayout({
